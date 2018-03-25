@@ -2,7 +2,7 @@
 export const ANIMALES = [
       {
         nombre: "Caballo",
-        imagen: "assets/animales/caballo.png",
+        imagen: "../../assets/animales/caballo.png",
         audio: "assets/sonidos/caballo.mp3",
         duracion: 4,
         reproduciendo: false
